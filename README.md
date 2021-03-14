@@ -1,1 +1,1 @@
-# hexcolorgenerator
+# Random Color Hex Code Generator
