@@ -1,3 +1,3 @@
 # Random Color Hex Code Generator
 
-Live demo : https://randomhexcolorgenerator.netlify.app
+Live preview : https://randomhexcolorgenerator.netlify.app
